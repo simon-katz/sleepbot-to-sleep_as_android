@@ -1,9 +1,9 @@
 # Configuration
-PATH_IN_SLEEPBOT_EXPORT = "E:/Pending/Sleep/SleepBot/Exports/14_01_17_1484325789185.csv"
-PATH_OUT_SLEEP_AS_ANDROID = "E:/Pending/Sleep/SleepBot/Exports/14_01_17_1484325789185_out.csv"
-SLEEPBOT_EXPORT_DATE_FORMAT = "%d/%m/%y"
+PATH_IN_SLEEPBOT_EXPORT = "/Users/simonkatz/Google Drive/SleepBot/SleepBot: Sleep data exported at17_08_06"
+PATH_OUT_SLEEP_AS_ANDROID = "/Users/simonkatz/Google Drive/SleepBot/sleepbot-data-converted-to-sleep-as-android"
+SLEEPBOT_EXPORT_DATE_FORMAT = "%y/%m/%d"
 SLEEPBOT_EXPORT_TIME_FORMAT = "%H:%M"
-TIMEZONE = "Asia/Hong_Kong"
+TIMEZONE = "Europe/London"
 NOTE_PREFIX = "[Import from Sleepbot]"
 
 # Constants
